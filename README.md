@@ -1,6 +1,8 @@
 # nft-stats
 Get the nftables counters easier to read
 
+The source of this project is https://git.azlux.fr/azlux/nft-stats, **PR are accepted on the source only**.
+
 It kind of hard to read the output of `nft list ruleset` so there is a small program parcising the output to make counter et stats easier to read.
 
 I make the ouput look like `iptables -nvL`
